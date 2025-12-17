@@ -1,0 +1,12 @@
+Considere o código JavaScript fornecido a seguir:
+
+<código>
+
+Aplique as seguintes transformações, e gere uma versão diferente do código relativo à transformação que foi aplicada em cada passo. Por exemplo, para o item (1) gere uma nova versão do código base aplicando a transformação mencionada no item; para cada um dos próximos itens, parta do código base novamente. A única exceção será a quinta e última versão que deve ser gerada contendo as 4 transformações aplicadas. As transformações são: 
+
+(1) Loops do-while podem ser transformados em loops while; 
+(2) Mudanças das definições das variáveis no código para serem diferentes do que o original; 
+(3) Adicione junk codes espalhados pelo código, e que não alterem semanticamente o programa; 
+(4) Altere a cláusula switch-case para if-else-if encadeados. 
+
+Ao final, crie uma quinta versão do código, aplicando simultaneamente todas as transformações acima.
